@@ -1,0 +1,8 @@
+URL: http://14.139.155.52/Visitor_management/
+
+Username: user
+Password: UsEr!23#@!
+
+intime 
+
+outtime
